@@ -1,4 +1,4 @@
-# Modelling and Optimization
+# Linear Algebra
 
 Welcome to my notes for the course Linear Algebra
 

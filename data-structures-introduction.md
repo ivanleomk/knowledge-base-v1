@@ -1,4 +1,4 @@
-# data-structures-introduction
+# Data Structures
 
 First lesson for Algorithm
 
